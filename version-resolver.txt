@@ -1,0 +1,2 @@
+path=.../Modules/{$MODULE_NAME}.lua
+version=null
